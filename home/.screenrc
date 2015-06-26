@@ -1,0 +1,3 @@
+defscrollback 16384
+defwrap off
+startup_message off
