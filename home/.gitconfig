@@ -5,6 +5,7 @@
   user = spadin
 [core]
   quotepath = false
+  excludesfile = ~/.gitignore
 [alias]
   l = log --graph --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset'
 [apply]
